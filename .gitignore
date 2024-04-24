@@ -1,4 +1,4 @@
-./MyFirstWebApp/MyFirstWebApp/bin/*
-./MyFirstWebApp/MyFirstWebApp/obj/*
+/MyFirstWebApp/MyFirstWebApp/bin/*
+/MyFirstWebApp/MyFirstWebApp/obj/*
 /.vs/MyFirstRepository/v17
 /MyFirstWebApp/.vs/MyFirstWebApp/FileContentIndex
