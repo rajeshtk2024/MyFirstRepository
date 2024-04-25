@@ -2,3 +2,5 @@
 /MyFirstWebApp/MyFirstWebApp/obj/*
 /.vs/MyFirstRepository/v17
 /MyFirstWebApp/.vs/MyFirstWebApp/FileContentIndex
+/MyFirstWebApp/.vs
+/.vs
