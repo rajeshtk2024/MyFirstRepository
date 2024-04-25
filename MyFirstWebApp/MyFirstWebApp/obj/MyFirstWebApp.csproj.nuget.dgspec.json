@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\A496665\\source\\repos\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj": {}
+    "C:\\Users\\A496665\\source\\repos\\MyFirstRepository\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\A496665\\source\\repos\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj": {
+    "C:\\Users\\A496665\\source\\repos\\MyFirstRepository\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\A496665\\source\\repos\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
+        "projectUniqueName": "C:\\Users\\A496665\\source\\repos\\MyFirstRepository\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
         "projectName": "MyFirstWebApp",
-        "projectPath": "C:\\Users\\A496665\\source\\repos\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
+        "projectPath": "C:\\Users\\A496665\\source\\repos\\MyFirstRepository\\MyFirstWebApp\\MyFirstWebApp\\MyFirstWebApp.csproj",
         "packagesPath": "C:\\Users\\A496665\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\A496665\\source\\repos\\MyFirstWebApp\\MyFirstWebApp\\obj\\",
+        "outputPath": "C:\\Users\\A496665\\source\\repos\\MyFirstRepository\\MyFirstWebApp\\MyFirstWebApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\A496665\\AppData\\Roaming\\NuGet\\NuGet.Config",
