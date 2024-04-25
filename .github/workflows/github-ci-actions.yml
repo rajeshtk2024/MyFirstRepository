@@ -22,7 +22,8 @@ jobs:
       with:
         dotnet-version: 8.0.x
     - name: Restore dependencies
-      run: dotnet restore
+      run: dotnet restore ./MyFirstWebApp.sln --configuration Release --no-restore
+
     - name: Build
       run: dotnet build --no-restore
     - name: Test
