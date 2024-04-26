@@ -4,8 +4,6 @@
 name: github-ci-actions
 
 on:
-  push:
-    branches: [ "main" ]
   pull_request:
     branches: [ "main" ]
 
