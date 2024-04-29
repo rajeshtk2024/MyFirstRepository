@@ -27,7 +27,12 @@ env:
 on:
   push:
     branches: [ "main" ]
-
+  workflow_dispatch:
+    inputs:
+      reason:
+        description: 'Reason why triggered manually'
+        required: true
+      
 permissions:
   contents: read
 
