@@ -41,6 +41,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - run: echo "Workflow run due to - ${{ github.event.inputs.reason }}"
       - uses: actions/checkout@v4
 
       - name: Set up .NET Core
